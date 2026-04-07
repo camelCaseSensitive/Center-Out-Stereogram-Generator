@@ -5,8 +5,8 @@ let depthImg = null;
 let textureImg = null;
 
 function preload() {
-  depthImg = loadImage("Teapot.jpg");
-  textureImg = loadImage("Bushes.jpg");
+  depthImg = loadImage("FlatStar.jpg");
+  textureImg = loadImage("Green.jpg");
 }
 
 let numStripsInput, depthMultInput, imgScaleInput, tileTextureCheckbox;
