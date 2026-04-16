@@ -125,7 +125,7 @@ function setup() {
     .hide();
 
   // --- Footer ---
-  createElement('footer', '© Copyright lavaboosted')
+  createElement('footer', '@lavaboosted')
     .style('text-align', 'center')
     .style('margin-top', '40px')
     .style('padding', '10px')
